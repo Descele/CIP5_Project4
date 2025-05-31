@@ -6,14 +6,15 @@ Stanford University’s Code in Place—a global initiative inspired by CS 106A�
 As an urban planner, I designed solutions that demonstrate Python’s versatility: automating workflows, analyzing datasets, and visualizing urban data patterns. Each project here began as a technical exercise but evolved into a lens for interdisciplinary thinking.
 
 ## 🎨 Geometric Pattern Generator  
-*I created this vibrant Python art generator that produces a 600x600px rainbow grid. Using alternating rectangles and ovals in a 6x6 layout, each nested shape reveals a smaller white counterpart—creating mesmerizing contrast. This project demonstrates how simple graphical programming (via `graphics.py`) can transform basic shapes and color sequences into striking visual patterns.*  
+*I created this vibrant Python art generator that produces a 600x600px rainbow grid. Using alternating rectangles and ovals in a 6x6 layout, each nested shape reveals a smaller white counterpart—creating mesmerizing contrast. This project demonstrates how simple graphical programming (via `main/graphics.py`) can transform basic shapes and color sequences into striking visual patterns.*  
 
 **📌 Tags**: python-graphics generative-art creative-coding  
 
 **Key Features**:  
 - Rainbow color sequencing  
 - Nested shape contrast (rectangle → oval → rectangle)  
-- Clean grid-based layout  
+- Clean grid-based layout
+  
 ## Code in Place Certification  
 *Stanford CS106A Methodology | 2025*  
 
